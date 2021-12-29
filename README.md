@@ -4,7 +4,7 @@
 
 Not much to say about me, I like shortcuts and time saving, and I am pretty sure that is very important when it comes to programming. Learning CISCO CCNA and looking forward to get more certifications in the upcoming future. I'm very curious when it comes to computers and development, I always ask how, why, and where. Thank your for your time and have a good one.
 
-Skills: VUE JS / PY / JS / HTML / CSS
+Skills: PY / JS / HTML / CSS
 
 
 
